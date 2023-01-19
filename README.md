@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ashritha-ashok-45a571254">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -14,34 +14,33 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="600" height="300"/>
+  <img src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=996&t=st=1674089006~exp=1674089606~hmac=d1368fb9fbfaa7f3323e1ebf4937f8ba623e109dfb3d4ad60ca7fbab60c78022" width="600" height="300"/>
 </div>
 ---
 
 ### :woman_technologist: About Me :
 
-- I am a front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a front-end designer and developer , contributing to frontend  for building web applications.
+- :telescope: I’m working as a front-end designer and developer , contributing to front-end for building web applications.
 
 - :seedling: Brainstorming Ideas to build websites.
 
-- :zap: In my free time, I solve problems on codewars and listen to music, I love to dance too.
+- :zap: In my free time, I solve problems on codewars, I work on ideas that could solve simple real world problems, I Ideate, Design and Develop Solution to it. Also I love to dance and listening to music.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashritha-ashok-45a571254)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 - HTML, CSS, Javascript, React-JS
 - UI/UX designing
-<div>
+<!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-</div>
-
+</div> -->
 ---
 
 ### :fire: My Stats :
