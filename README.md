@@ -18,7 +18,7 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
+###  About Me :
 
 - I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
@@ -32,7 +32,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 - HTML, CSS, Javascript, React-JS
 - UI/UX designing
 <!-- <div>
@@ -43,7 +43,7 @@
 </div> -->
 ---
 
-### :fire: My Stats :
+###  My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashritha369&theme=dark&background=000000)](https://git.io/streak-stats)
 
