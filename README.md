@@ -26,14 +26,16 @@
 
 - :seedling: Brainstorming Ideas to build websites.
 
-- :zap: In my free time, I solve problems on codewars, I work on ideas that could solve simple real world problems, I Ideate, Design and Develop Solution to it. Also I love to dance and listening to music.
+- :zap: In my free time, I work on ideas that could solve simple real world problems, I Ideate, Design and Develop Solution to it. Also I love to dance and listening to music.
+
+- 👩‍💼 : Currently working on client projects, end-to-end full-stack, from designing to deployment, ensuring responsiveness, user-friendliness, and optimal user experience for web apps.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashritha-ashok-45a571254)
 
 ---
 
 ### Languages and Tools :
-- HTML, CSS, Javascript, React-JS
+- HTML, CSS, Javascript, React-JS, 
 - UI/UX designing
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
